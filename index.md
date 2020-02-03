@@ -20,5 +20,4 @@ For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscape
 #### Newsletters:
 [Fall 2019](biogeoscapes/_newsletter/2019-07-15-newsletter.md)
 
-##### Biogeoscapes has an active Twitter feed, follow along news and related events:
-<a href="https://twitter.com/intent/tweet?button_hashtag=biogeoscapes&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #biogeoscapes</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Biogeoscapes has an active Twitter feed [@biogeoscapes](https://twitter.com/biogeoscapes), follow along news and related events, or post your own news <a href="https://twitter.com/intent/tweet?button_hashtag=biogeoscapes&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #biogeoscapes</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
