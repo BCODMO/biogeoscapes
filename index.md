@@ -11,7 +11,7 @@ For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscape
 <br>
 
 #### Upcoming Events:
-* Come to the Biogeoscapes Ocean Sciences Meeting Sessions on [Thursday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/93195), and [Friday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/93199), and Posters on [Thursday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/84717) February 20-21.
+* Come to the Biogeoscapes Ocean Sciences Meeting Sessions in San Diego, CA (Feb 17-21, 2020) on [Thursday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/93195), and [Friday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/93199), and Posters on [Thursday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/84717) February 20-21.
 * A US National Biogeoscapes [Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/) supported by OCB is being planned for October 14-17 2020, stay tuned for more information. 
 
 #### Recent Activities:
