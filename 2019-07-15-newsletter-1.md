@@ -27,6 +27,6 @@ BioGeoSCAPES related science is being promoted on social media through the Twitt
 
 Sincerely,
 
-Maite Maldonado, Adrian Marchetti, Alessandro Tagliabue, Mak Saito,
+Maite Maldonado, Adrian Marchetti, Alessandro Tagliabue, Mak Saito
 
 Biogeoscapes meeting conveners
