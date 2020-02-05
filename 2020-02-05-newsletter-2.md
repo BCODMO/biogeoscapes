@@ -30,8 +30,7 @@ in the Woods Hole Scoping meeting and share it [here](https://docs.google.com/sp
 Please have a look and if you wish to add your name, please send an 
 email to info@biogeoscapes.org.
 
-### Some highlights of the most recent, ongoing and upcoming activities 
-include:
+### Some highlights of the most recent, ongoing and upcoming activities include:
 
 - An Ocean Metaproteomic Intercomparison [effort](https://www.us-ocb.org/intercomparison-and-intercalibration-metaproteomics/) 
 is underway funded by the US Ocean Carbon Biogeochemistry (OCB) program. 
