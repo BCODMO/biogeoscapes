@@ -39,8 +39,8 @@ there are opportunities for a few more laboratories to join. A workshop
 to discuss results is planned for May 14-17, 2020.
 
 - A series of EU participants at the 2018 WHOI BioGeoSCAPES workshop 
-(Alessandro Tagliabue, Ingrid Obernoster, Daniele Iudicone, Chris 
-Bowler, Yeala Shaked and Martha Gledhill) submitted a EU-COST action 
+(Martha Gledhill, Alessandro Tagliabue, Ingrid Obernoster, Daniele Iudicone, Chris 
+Bowler, and Yeala Shaked) submitted a EU-COST action 
 proposal with multiple EU partners, entitled "Cells to SeaSCAPES: 
 Nutrient regulation of Ocean Metabolism" in the fall 2019, to develop 
 an EU wide BioGeoSCAPES network, outlining protocols and planning 
