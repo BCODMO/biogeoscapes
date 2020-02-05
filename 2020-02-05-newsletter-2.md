@@ -64,14 +64,13 @@ complete description of this activity is available [here](https://www.us-ocb.org
 USA, February 16-21, 2020, entitled "Toward BioGeoSCAPES: Exploring 
 Molecular Drivers of Ocean Metabolism and Biogeochemistry"
 
-[I (OB53B), Talks, Thursday, February 20, 14:00-16:00](https://agu.confex.com/agu/osm20/prelim.cgi/Session/93195)
+-- [I (OB53B), Talks, Thursday, February 20, 14:00-16:00](https://agu.confex.com/agu/osm20/prelim.cgi/Session/93195)
 
-[III (OB44J), Posters, Thursday, February 20, 16:00-18:00 ](https://agu.confex.com/agu/osm20/prelim.cgi/Session/84717)
+-- [III (OB44J), Posters, Thursday, February 20, 16:00-18:00 ](https://agu.confex.com/agu/osm20/prelim.cgi/Session/84717)
 
-[II (OB43C), Talks, Friday, February 21, 14:00-16:00](https://agu.confex.com/agu/osm20/prelim.cgi/Session/93199)
+-- [II (OB43C), Talks, Friday, February 21, 14:00-16:00](https://agu.confex.com/agu/osm20/prelim.cgi/Session/93199)
 
-1st France BioGeoSCAPES Planning Workshop; May 4-7, 2020; Toulouse. 
-Organizers: Catherine Jeandel, Ingrid Obernoster and Damien Cardinal
+- 1st France BioGeoSCAPES Planning Workshop; May 4-7, 2020; Toulouse. Organizers: Catherine Jeandel, Ingrid Obernoster and Damien Cardinal
 
 - Proposal funded for [USA BioGeoSCAPES Planning Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/)
 (~70 participants) in the fall of 2020, entitled Laying the foundation 
