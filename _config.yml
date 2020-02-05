@@ -28,6 +28,7 @@ repository: "BCODMO/biogeoscapes"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-gist
 
 # A list of the pages to display in the navigation bar
 header_pages:
