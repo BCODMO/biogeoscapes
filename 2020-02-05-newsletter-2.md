@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: biogeoscapes
+---
 ## BioGeoSCAPES NEWSLETTER #2
 
 February 5, 2020
