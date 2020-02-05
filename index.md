@@ -18,7 +18,8 @@ For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscape
 * National Community Interest Meetings have occurred in the Japan, the UK, Canada, China, and France. Meeting summaries to be posted soon.
 
 #### Newsletters:
-[Fall 2019](2019-07-15-newsletter-1.md)
+- [Fall 2019](2019-07-15-newsletter-1.md) 
+- [Winter 2020](2020-02-05-newsletter-2.md)
 
 Biogeoscapes has an active Twitter feed [@biogeoscapes](https://twitter.com/biogeoscapes), follow along news and related events, or post your own news <a href="https://twitter.com/intent/tweet?button_hashtag=biogeoscapes&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #biogeoscapes</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
