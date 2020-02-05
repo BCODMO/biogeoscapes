@@ -15,18 +15,18 @@ the organizing process, when those interested are gauging and aiming to
 build international community support, as well as discussing potential 
 science objectives and parameters.
 
-Upcoming plans include organizing national meetings to continue gauging 
-interest and brainstorming scientific goals (see below). In addition, 
+Upcoming plans include organizing national meetings to continue building 
+interest and exploring potential scientific goals. In addition, 
 initial intercalibration efforts are being encouraged for potential 
 parameters such as the recently organized metagenomic and metaproteomic 
 intercalibration projects (see below). Future sessions at international 
 meetings are also being organized, such as at the Ocean Sciences Meeting 
 in San Diego (CA, USA) in 2020 (see below).
 
-In parallel, we would like to find a way to facilitate the inclusion of 
-more nations and researchers in BioGeoSCAPES activities. To help with 
-this we have begun a list of ambassadors based on those who participated 
-in the Woods Hole Scoping meeting and share it [here](https://docs.google.com/spreadsheets/u/0/d/1dG2Manobov6d5tuhU4QFWceCZGm9HQIkQz_Gyb435TQ/htmlview).
+In parallel, we would like to facilitate the inclusion of more nations and researchers in BioGeoSCAPES activities. To help with 
+this we have begun a list of ambassadors [here](https://docs.google.com/spreadsheets/u/0/d/1dG2Manobov6d5tuhU4QFWceCZGm9HQIkQz_Gyb435TQ/htmlview).
+Please consider self-declaring if you wish, and if you wish to get involved contacting those listed would be a good first step.
+
 Please have a look and if you wish to add your name, please send an 
 email to info@biogeoscapes.org.
 
