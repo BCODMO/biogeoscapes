@@ -23,4 +23,14 @@ For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscape
 
 Biogeoscapes has an active Twitter feed [@biogeoscapes](https://twitter.com/biogeoscapes), follow along news and related events, or post your own news <a href="https://twitter.com/intent/tweet?button_hashtag=biogeoscapes&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #biogeoscapes</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157889041-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-157889041-1');
+</script>
+
 
