@@ -48,7 +48,7 @@ intercalibrations, field campaigns and experiments. The results of this
 proposal will be known in March 2020.
 
 - 1st China BioGeoSCAPES Planning Workshop, Academic Exchange Center, 
-Xiamen University, Xiangâ€™an Campus, October 20-21, 2019. Organizer: 
+Xiamen University, Xiang’an Campus, October 20-21, 2019. Organizer: 
 Dalin Shi
 
 - 1st Canada BioGeoSCAPES Planning Workshop; Halifax, Nova Scotia, 
@@ -90,3 +90,5 @@ Thanks for showing interest in BioGeoSCAPES!
 Sincerely,
 
 Maite Maldonado, Adrian Marchetti, Mak Saito, and Alessandro Tagliabue
+
+Biogeoscapes Conveners
