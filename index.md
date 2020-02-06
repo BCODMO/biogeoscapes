@@ -15,7 +15,7 @@ For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscape
 * A US National Biogeoscapes [Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/) supported by OCB is being planned for October 14-17 2020, stay tuned for more information. 
 
 #### Recent Activities:
-* National Community Interest Meetings have occurred in the Japan, the UK, Canada, China, and France. Meeting summaries to be posted soon.
+* National Community Interest Meetings have occurred in Japan, the UK, Canada, China, and France. Meeting summaries to be posted soon.
 
 #### Newsletters:
 - [Fall 2019](2019-07-15-newsletter-1.md) 
