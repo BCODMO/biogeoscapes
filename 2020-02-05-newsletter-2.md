@@ -24,7 +24,7 @@ meetings are also being organized, such as at the Ocean Sciences Meeting
 in San Diego (CA, USA) in 2020 (see below).
 
 In parallel, we would like to facilitate the inclusion of more nations and researchers in BioGeoSCAPES activities. To help with 
-this we have begun a list of ambassadors [here](https://docs.google.com/spreadsheets/u/0/d/1dG2Manobov6d5tuhU4QFWceCZGm9HQIkQz_Gyb435TQ/htmlview).
+this we have begun a list of ambassadors [here](https://github.com/BCODMO/biogeoscapes/blob/master/2020_asof_0930National%20Representatives.pdf).
 Please consider self-declaring if you wish, and if you wish to get involved contacting those listed would be a good first step.
 
 Please have a look and if you wish to add your name, please send an 
