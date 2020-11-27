@@ -12,8 +12,8 @@ For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscape
 <br>
 
 #### Upcoming Events
-* OCB Ocean Metaproteome Intercomparison [Effort](https://www.us-ocb.org/intercomparison-and-intercalibration-metaproteomics/) underway, workshop planned for summer 2021 
-* A US National Biogeoscapes [Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/) supported by OCB (postponed to 2021 dates to be announced, stay tuned for more information).
+* [OCB Ocean Metaproteome Intercomparison Effort](https://www.us-ocb.org/intercomparison-and-intercalibration-metaproteomics/) underway, workshop planned for summer 2021 
+* A [US National Biogeoscapes Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/) supported by OCB (postponed to 2021 dates to be announced, stay tuned for more information).
 * A couple of BioGeoSCAPES Sessions at the ASLO 2021 Aquatic Sciences Meeting in Palma de Mallorca, Spain (June 22-27) have been proposed, more information to follow.
 
 #### Recent Activities:
