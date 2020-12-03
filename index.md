@@ -22,7 +22,7 @@ For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscape
 * Ocean Nucleic Acids 'omics Intercalibration and Standardization [Workshop](https://www.us-ocb.org/ocean-nucleic-acids-omics-workshop/) in January of 2020 
 
 #### Newsletters:
-- Fall/Winter Newsletter 2020 coming soon
+- [December 2020](2020_12_02_newsletter-3.md)
 - [Winter 2020](2020-02-05-newsletter-2.md)
 - [Fall 2019](2019-07-15-newsletter-1.md) 
 
