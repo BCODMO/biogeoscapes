@@ -13,10 +13,11 @@ For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscape
 
 #### Upcoming Events
 * A [US National Biogeoscapes Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/) supported by OCB November 10-12, 2021
-* A couple of BioGeoSCAPES Sessions at the ASLO 2021 Aquatic Sciences Meeting in Palma de Mallorca, Spain (June 22-27) have been proposed, more information to follow.
-
+* BioGeoSCAPES Session at the Ocean Sciences Meeting in Honolulu Hawaii February 2022 "Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry
+Topic: Ocean Biology and Biogeochemistry" 
 #### Recent Activities:
 * [OCB Ocean Metaproteome Intercomparison Effort](https://www.us-ocb.org/intercomparison-and-intercalibration-metaproteomics/) September 16-17th, 2021
+* A couple of BioGeoSCAPES Sessions at the ASLO 2021 Aquatic Sciences Meeting in Palma de Mallorca, Spain (June 22-27) have been proposed, more information to follow.
 * National Community Interest Meetings have occurred in Japan, the UK, Canada, China, and France
 * Biogeoscapes Ocean Sciences Meeting Sessions in San Diego, CA (Feb 17-21, 2020) Sessions: [Thursday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/93195), [Friday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/93199), and [Posters](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/84717) February 20-21.
 * Ocean Nucleic Acids 'omics Intercalibration and Standardization [Workshop](https://www.us-ocb.org/ocean-nucleic-acids-omics-workshop/) in January of 2020 
