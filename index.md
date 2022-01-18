@@ -12,10 +12,10 @@ For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscape
 <br>
 
 #### Upcoming Events
-* A [US National Biogeoscapes Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/) supported by OCB November 10-12, 2021
 * BioGeoSCAPES Session at the Ocean Sciences Meeting in Honolulu Hawaii February 2022 "Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry
 Topic: Ocean Biology and Biogeochemistry" 
 #### Recent Activities:
+* A [US National Biogeoscapes Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/) supported by OCB November 10-12, 2021
 * [OCB Ocean Metaproteome Intercomparison Effort](https://www.us-ocb.org/intercomparison-and-intercalibration-metaproteomics/) September 16-17th, 2021
 * A couple of BioGeoSCAPES Sessions at the ASLO 2021 Aquatic Sciences Meeting in Palma de Mallorca, Spain (June 22-27) have been proposed, more information to follow.
 * National Community Interest Meetings have occurred in Japan, the UK, Canada, China, and France
