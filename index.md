@@ -12,8 +12,14 @@ For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscape
 <br>
 
 #### Upcoming Events
-* BioGeoSCAPES Session at the Ocean Sciences Meeting in Honolulu Hawaii February 2022 "Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry
-Topic: Ocean Biology and Biogeochemistry" 
+* BioGeoSCAPES has a major presence at the upcoming 2022 Ocean Sciences Meeting Virtual Meeting, with 65 submissions distributed into 5 sessions. OSM is February 24 - March 4, 2022 
+The Sessions are titled: "Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry" under the topic Ocean Biology and Biogeochemistry
+  * [BioGeoSCAPES Session 1](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/40): Global Scale Processes (Mon. Feb. 28, 9AM)
+  * [BioGeoSCAPES Session 2](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/641): Southern Ocean Dynamics (Mon. Feb. 28, 10AM)
+  * [BioGeoSCAPES Session 3](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/642): Cyanobacteria and bacteria (Mon. Feb, 28, 11:30AM)
+  * [BioGeoSCAPES Session 4](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/643): Phosphorus and DOM (Fri. March 4, 11:30AM)
+  * [BioGeoSCAPES Session 5](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/644): Protists (Fri. March 4, 12:30PM)
+
 #### Recent Activities:
 * A [US National Biogeoscapes Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/) supported by OCB November 10-12, 2021
 * [OCB Ocean Metaproteome Intercomparison Effort](https://www.us-ocb.org/intercomparison-and-intercalibration-metaproteomics/) September 16-17th, 2021
