@@ -15,7 +15,7 @@ In an effort to explore and develop international community interest for a poten
 <br>
 
 #### Upcoming Events
-* BioGeoSCAPES has a major presence at the upcoming 2022 Ocean Sciences Meeting Virtual Meeting, with 65 submissions distributed into 5 sessions. OSM is February 24 - March 4, 2022 
+* BioGeoSCAPES has a major presence at the upcoming 2022 Ocean Sciences Meeting Virtual Meeting, with 44 submissions distributed into 5 sessions. OSM is February 24 - March 4, 2022 
 The Sessions are titled: "Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry" under the topic Ocean Biology and Biogeochemistry
   * [BioGeoSCAPES Session 1](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/40): Global Scale Processes (Mon. Feb. 28, 9AM)
   * [BioGeoSCAPES Session 2](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/641): Southern Ocean Dynamics (Mon. Feb. 28, 10AM)
