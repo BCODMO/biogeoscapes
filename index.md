@@ -20,6 +20,7 @@ The Sessions are titled: "Towards BioGeoSCAPES: Linking cellular metabolism with
   * [BioGeoSCAPES Session 4](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/643): Phosphorus and DOM (Fri. March 4, 11:30AM)
   * [BioGeoSCAPES Session 5](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/644): Protists (Fri. March 4, 12:30PM)
   * BioGeoSCAPES posters are included within the two poster sessions on Wed. March 2: the [7-9pm EST poster session](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/623) and the [9-11pm EST poster session](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/624)
+  
 #### Recent Activities:
 * A [US National Biogeoscapes Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/) supported by OCB November 10-12, 2021
 * [OCB Ocean Metaproteome Intercomparison Effort](https://www.us-ocb.org/intercomparison-and-intercalibration-metaproteomics/) September 16-17th, 2021
