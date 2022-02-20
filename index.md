@@ -4,7 +4,12 @@ title: biogeoscapes
 ---
 <img src="biogeoscapes-04_cropped.png">
 
-In an effort to explore and develop international community interest for a potential future “Biogeotraces-like” program to study the microbial biological and chemical oceanography of the oceans, a working group of 28 scientists from 9 nations met in Woods Hole in November 2018. There was strong interest in continuing this effort among the international participants, who agreed to act as ambassadors to communicate these discussions to their respective national communities. Please join us in building community support for this effort. The workshop report is [here](https://doi.org/10.5281/zenodo.4314954), a 2022 general overview BioGeoSCAPES poster is [here](https://drive.google.com/file/d/1oItOLva7VhJ90m6HQyuS4iavD3YuDONr/view?usp=sharing), and a list of national ambassadors is available [here](https://docs.google.com/spreadsheets/d/1lwYWRNgrVM_zfIcD0uksyRf_JohBgEkAgnEHDd6trrs/edit#gid=0) 
+In an effort to explore and develop international community interest for a potential future “Biogeotraces-like” program to study the microbial biological and chemical oceanography of the oceans, a working group of 28 scientists from 9 nations met in Woods Hole in November 2018. There was strong interest in continuing this effort among the international participants, who agreed to act as ambassadors to communicate these discussions to their respective national communities. Please join us in building community support for this effort. 
+
+#### General Information
+* 2018 Workshop [report](https://doi.org/10.5281/zenodo.4314954)
+* 2022 BioGeoSCAPES Ocean Sciences Meeting [Overview Poster](https://drive.google.com/file/d/1oItOLva7VhJ90m6HQyuS4iavD3YuDONr/view?usp=sharing)
+* List of current national [ambassadors](https://docs.google.com/spreadsheets/d/1lwYWRNgrVM_zfIcD0uksyRf_JohBgEkAgnEHDd6trrs/edit#gid=0) and contact information
 
 <br>
 To join the email list contact <a href="mailto:mzawoysky@whoi.edu">here</a><br>
