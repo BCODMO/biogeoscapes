@@ -10,10 +10,8 @@ In an effort to explore and develop international community interest for a poten
 * 2018 Workshop [report](https://doi.org/10.5281/zenodo.4314954)
 * 2022 BioGeoSCAPES Ocean Sciences Meeting [Overview Poster](https://drive.google.com/file/d/1oItOLva7VhJ90m6HQyuS4iavD3YuDONr/view?usp=sharing)
 * List of current national [ambassadors](https://docs.google.com/spreadsheets/d/1lwYWRNgrVM_zfIcD0uksyRf_JohBgEkAgnEHDd6trrs/edit#gid=0) and contact information
-
-<br>
-To join the email list contact <a href="mailto:mzawoysky@whoi.edu">here</a><br>
-For information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscapes.org</a><br>
+* Join the email list by sending a request <a href="mailto:mzawoysky@whoi.edu">here</a><br>
+* For further BioGeoSCAPES information contact: <a href="mailto:info@biogeoscapes.org">info@biogeoscapes.org</a><br>
 <br>
 
 #### Upcoming Events
