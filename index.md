@@ -33,7 +33,7 @@ In an effort to explore and develop international community interest for a poten
 * A couple of BioGeoSCAPES Sessions at the ASLO 2021 Aquatic Sciences Meeting in Palma de Mallorca, Spain (June 22-27) have been proposed, more information to follow.
 * National Community Interest Meetings have occurred in Japan, the UK, Canada, China, and France
 * Biogeoscapes Ocean Sciences Meeting Sessions in San Diego, CA (Feb 17-21, 2020) Sessions: [Thursday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/93195), [Friday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/93199), and [Posters](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/84717) February 20-21.
-* Ocean Nucleic Acids 'omics Intercalibration and Standardization [Workshop](https://www.us-ocb.org/ocean-nucleic-acids-omics-workshop/) in January of 2020. The Report from the OCB Ocean Nucleic Acids workshop has been completed and was recently posted  [Workshop Report](https://www.us-ocb.org/wp-content/uploads/sites/43/2022/03/NA-omics-report-2022-doi.pdf)
+* Ocean Nucleic Acids 'omics Intercalibration and Standardization [Workshop](https://www.us-ocb.org/ocean-nucleic-acids-omics-workshop/) in January of 2020. The workshop report has been completed and is now [posted](https://www.us-ocb.org/wp-content/uploads/sites/43/2022/03/NA-omics-report-2022-doi.pdf). The report provides an overview of the current status of nucleic acid 'omics approaches and proposes future activities towards community intercalibration and standardization efforts.
 
 #### Newsletters:
 - [Newsletter 4 - March 2022](2022_3_15_newsletter.md)
