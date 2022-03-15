@@ -34,7 +34,7 @@ We hope everyone continues to be safe during the pandemic and that we will all b
 
 <br>
 
-In addition to the website ([www.biogeoscapes.org](https://www.biogeoscapes.org), BioGeoSCAPES related science is being promoted on social media through the Twitter account “@BioGeoSCAPES”. If you have any highlights for the Twitter feed, please share them with us.
+In addition to the website ([www.biogeoscapes.org](https://www.biogeoscapes.org)), BioGeoSCAPES related science is being promoted on social media through the Twitter account “@BioGeoSCAPES”. If you have any highlights for the Twitter feed, please share them with us.
 
 If you would like to get involved in BioGeoSCAPES activities, please contact your country’s representative listed at the link above, or one of us. If your country is not listed and you wish to be added as a representative, please contact us (Mak, Al, Adrian or Maite).
 
