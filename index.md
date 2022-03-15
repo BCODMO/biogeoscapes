@@ -36,7 +36,7 @@ In an effort to explore and develop international community interest for a poten
 * Ocean Nucleic Acids 'omics Intercalibration and Standardization [Workshop](https://www.us-ocb.org/ocean-nucleic-acids-omics-workshop/) in January of 2020. The Report from the OCB Ocean Nucleic Acids workshop has been completed and was recently posted  [Workshop Report](https://www.us-ocb.org/wp-content/uploads/sites/43/2022/03/NA-omics-report-2022-doi.pdf)
 
 #### Newsletters:
-- [Newsletter 4 - March 2022](2022_03_15_newsletter.md)
+- [Newsletter 4 - March 2022](2022_3_15_newsletter.md)
 - [Newsletter 3 - December 2020](2020_12_02_newsletter-3.md)
 - [Newsletter 2 - February 2020](2020-02-05-newsletter-2.md)
 - [Newsletter 1 - December 2019](2019-07-15-newsletter-1.md) 
