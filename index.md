@@ -15,22 +15,25 @@ In an effort to explore and develop international community interest for a poten
 <br>
 
 #### Upcoming Events
-* BioGeoSCAPES has a major presence at the upcoming 2022 Ocean Sciences Meeting Virtual Meeting, with 44 submissions distributed into 5 sessions. OSM is February 24 - March 4, 2022 
-The Sessions are titled: "Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry" under the topic Ocean Biology and Biogeochemistry
+* EU 2022 Euromarine (Dates TBD 2022; Zagreb, Croatia) A Pan-European workshop to further foster BioGeoSCAPES collaborations and to support their COST application.  Martha Gledhill (GEOMAR Helmholtz Centre for Ocean Research) and Sandi Orlic (Institut Ruđer Bošković, Zagreb, Croatia). For further details see the [website](https://euromarinenetwork.eu/activities/reconciling-impact-trace-metal-limitation-microbial-metabolism-and-productivity/) or contact Martha Gledhill; mgledhill@geomar.de 
+* There are two events to look forward to in the UK during 2022: 
+(12-13 Sept 2022), London International Royal Society meeting on Marine Microbes in a Changing Climate (organized by A. Tagliabue, T. Mock, J.Robidart, P. Sanchez-Baracaldo), 
+6-8 Sept 2022, [Challenger 150: The Challenger Society Conference 2022](https://www.nhm.ac.uk/our-science/science-events/the-challenger-society-conference-2022-in-london.html) in London more info forthcoming 
+  
+#### Recent Activities:
+* BioGeoSCAPES had a major presence at the 2022 Ocean Sciences Meeting Virtual Meeting, February 24 - March 4, 2022, with 44 submissions distributed into 5 sessions and 80-100 participants attending each session. The session was titled: "Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry" under the topic Ocean Biology and Biogeochemistry. 
   * [BioGeoSCAPES Session 1](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/40): Global Scale Processes (Mon. Feb. 28, 9AM EST)
   * [BioGeoSCAPES Session 2](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/641): Southern Ocean Dynamics (Mon. Feb. 28, 10AM EST)
   * [BioGeoSCAPES Session 3](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/642): Cyanobacteria and bacteria (Mon. Feb, 28, 11:30AM EST)
   * [BioGeoSCAPES Session 4](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/643): Phosphorus and DOM (Fri. March 4, 11:30AM EST)
   * [BioGeoSCAPES Session 5](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/644): Protists (Fri. March 4, 12:30PM EST)
-  * BioGeoSCAPES posters are included within the poster sessions on Wed. March 2:  [7-9pm EST poster session](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/623)
-  
-#### Recent Activities:
+  * BioGeoSCAPES posters were included within the poster sessions on Wed. March 2:  [7-9pm EST poster session](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/623)
 * A [US National Biogeoscapes Workshop](https://www.us-ocb.org/ocb-scoping-workshop-laying-the-foundation-for-a-potential-future-biogeoscapes-program/) supported by OCB November 10-12, 2021
 * [OCB Ocean Metaproteome Intercomparison Effort](https://www.us-ocb.org/intercomparison-and-intercalibration-metaproteomics/) September 16-17th, 2021
 * A couple of BioGeoSCAPES Sessions at the ASLO 2021 Aquatic Sciences Meeting in Palma de Mallorca, Spain (June 22-27) have been proposed, more information to follow.
 * National Community Interest Meetings have occurred in Japan, the UK, Canada, China, and France
 * Biogeoscapes Ocean Sciences Meeting Sessions in San Diego, CA (Feb 17-21, 2020) Sessions: [Thursday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/93195), [Friday](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/93199), and [Posters](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/84717) February 20-21.
-* Ocean Nucleic Acids 'omics Intercalibration and Standardization [Workshop](https://www.us-ocb.org/ocean-nucleic-acids-omics-workshop/) in January of 2020. [Workshop Report](https://www.us-ocb.org/wp-content/uploads/sites/43/2022/03/NA-omics-report-2022-doi.pdf)
+* Ocean Nucleic Acids 'omics Intercalibration and Standardization [Workshop](https://www.us-ocb.org/ocean-nucleic-acids-omics-workshop/) in January of 2020. The Report from the OCB Ocean Nucleic Acids workshop has been completed and was recently posted  [Workshop Report](https://www.us-ocb.org/wp-content/uploads/sites/43/2022/03/NA-omics-report-2022-doi.pdf)
 
 #### Newsletters:
 - [Newsletter 3 - December 2020](2020_12_02_newsletter-3.md)
