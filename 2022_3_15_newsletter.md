@@ -7,9 +7,10 @@ title: biogeoscapes
 Dear BioGeoSCAPES community,
 
 We hope everyone continues to be safe during the pandemic and that we will all be able to meet in the future at international meetings. There continues to be strong interest and activity in developing an international BioGeoSCAPES program. Most recently there was an excellent series of BioGeoSCAPES sessions at the Ocean Sciences Meeting as described below. 
-There were well-attended BioGeoSCAPES sessions with great interdisciplinary talks with many early career researchers at the virtual Ocean Sciences Meeting in February. The session was entitled: “Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry (OB20)” and consisted of five oral presentation blocks and one poster presentation block and were divided into research themes as listed below and there were 80-100 audience members in each of the sessions. 
-  - Session 1: Global Scale Processes (Mon. Feb. 28, 9AM)
-  - Session 2: Southern Ocean Dynamics (Mon. Feb. 28, 10AM)
+
+* There were well-attended BioGeoSCAPES sessions with great interdisciplinary talks with many early career researchers at the virtual Ocean Sciences Meeting in February. The session was entitled: “Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry (OB20)” and consisted of five oral presentation blocks and one poster presentation block and were divided into research themes as listed below and there were 80-100 audience members in each of the sessions. 
+  * Session 1: Global Scale Processes (Mon. Feb. 28, 9AM)
+  * Session 2: Southern Ocean Dynamics (Mon. Feb. 28, 10AM)
   - Session 3: Cyanobacteria and bacteria (Mon. Feb, 28, 11:30AM)
   - Session 4: Phosphorus and DOM (Fri. March 4, 11:30AM)
   - Session 5: Protists (Fri. March 4, 12:30PM)
@@ -29,6 +30,18 @@ There were well-attended BioGeoSCAPES sessions with great interdisciplinary talk
 - UK Two events to look forward to in the UK during 2022: 
   * 12-13 Sept 2022, London International Royal Society meeting on Marine Microbes in a Changing Climate (organized by A. Tagliabue, T. Mock, J.Robidart, P. Sanchez-Baracaldo), 
   * 6-8 Sept 2022, Challenger 150: The Challenger Society Conference 2022 in London https://www.nhm.ac.uk/our-science/science-events/the-challenger-society-conference-2022-in-london.html more info forthcoming 
+
+
+BioGeoSCAPES related science is being promoted on social media through the Twitter account “@BioGeoSCAPES”. If you have any highlights for the Twitter feed, please share them with us.
+
+If you would like to get involved in BioGeoSCAPES activities, please contact your country’s representative listed at the link above, or one of us. If your country is not listed and you wish to be added as a representative, please contact us (Mak, Al, Adrian or Maite).
+
+Thanks for showing interest in BioGeoSCAPES!
+
+Sincerely,
+Mak Saito, Alessandro Tagliabue, Adrian Marchetti, and Maite Maldonado.
+
+ 
 
 
  
