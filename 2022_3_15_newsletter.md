@@ -2,7 +2,7 @@
 layout: page
 title: biogeoscapes
 ---
-## BioGeoSCAPES Newsletter March 2022
+## BioGeoSCAPES Newsletter - March 2022
 
 Dear BioGeoSCAPES community,
 
