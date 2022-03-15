@@ -29,8 +29,10 @@ We hope everyone continues to be safe during the pandemic and that we will all b
 - Expeditions are being planned in the Indian Ocean from March to May with a BioGeoSCAPES component.
 - UK Two events to look forward to in the UK during 2022: 
   * 12-13 Sept 2022, London International Royal Society meeting on Marine Microbes in a Changing Climate (organized by A. Tagliabue, T. Mock, J.Robidart, P. Sanchez-Baracaldo), 
-  * 6-8 Sept 2022, [Challenger 150: The Challenger Society Conference 2022](https://www.nhm.ac.uk/our-science/science-events/the-challenger-society-conference-2022-in-london.html) in London more info forthcoming 
+  * 6-8 Sept 2022, [Challenger 150: The Challenger Society Conference 2022](https://www.nhm.ac.uk/our-science/science-events/the-challenger-society-conference-2022-in-london.html) in London. More info will be forthcoming. 
 
+
+<br>
 
 BioGeoSCAPES related science is being promoted on social media through the Twitter account “@BioGeoSCAPES”. If you have any highlights for the Twitter feed, please share them with us.
 
