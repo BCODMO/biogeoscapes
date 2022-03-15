@@ -24,7 +24,7 @@ We hope everyone continues to be safe during the pandemic and that we will all b
 - The first legs of the AtlantECO Mission Microbiomes project involving the Tara schooner are underway in the Atlantic Ocean and Antarctica 
 - The US, Canadian, and EU BioGeoSCAPES communities have been submitting grant proposals aimed at building international networks to foster the development of the BioGeoSCAPES program.
 
-# Future Events:
+### Future Events:
 - EU 2022 Euromarine (Dates TBD 2022; Zagreb, Croatia) A Pan-European workshop to further foster BioGeoSCAPES collaborations and to support their COST application.  Martha Gledhill (GEOMAR Helmholtz Centre for Ocean Research) and Sandi Orlic (Institut Ruđer Bošković, Zagreb, Croatia). For further details see the [website](https://euromarinenetwork.eu/activities/reconciling-impact-trace-metal-limitation-microbial-metabolism-and-productivity/) or contact Martha Gledhill; mgledhill@geomar.de 
 - Expeditions are being planned in the Indian Ocean from March to May with a BioGeoSCAPES component.
 - UK Two events to look forward to in the UK during 2022: 
