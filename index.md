@@ -15,12 +15,11 @@ In an effort to explore and develop international community interest for a poten
 <br>
 
 #### Upcoming Events
-* EU 2022 Euromarine (Dates TBD 2022; Zagreb, Croatia) A Pan-European workshop to further foster BioGeoSCAPES collaborations and to support their COST application.  Martha Gledhill (GEOMAR Helmholtz Centre for Ocean Research) and Sandi Orlic (Institut Ruđer Bošković, Zagreb, Croatia). For further details see the [website](https://euromarinenetwork.eu/activities/reconciling-impact-trace-metal-limitation-microbial-metabolism-and-productivity/) or contact Martha Gledhill; mgledhill@geomar.de 
-* There are two events to look forward to in the UK during 2022: 
-(12-13 Sept 2022), London International Royal Society meeting on Marine Microbes in a Changing Climate (organized by A. Tagliabue, T. Mock, J.Robidart, P. Sanchez-Baracaldo), 
-6-8 Sept 2022, [Challenger 150: The Challenger Society Conference 2022](https://www.nhm.ac.uk/our-science/science-events/the-challenger-society-conference-2022-in-london.html) in London more info forthcoming 
-  
+* Stay tuned: Webinars and future workshops  being planned
+*   
 #### Recent Activities:
+* EU 2022 Euromarine (Dates June 2022; Zagreb, Croatia) A Pan-European workshop to further foster BioGeoSCAPES collaborations and to support their COST application.  Martha Gledhill (GEOMAR Helmholtz Centre for Ocean Research) and Sandi Orlic (Institut Ruđer Bošković, Zagreb, Croatia). For further details see the [website](https://euromarinenetwork.eu/activities/reconciling-impact-trace-metal-limitation-microbial-metabolism-and-productivity/) or contact Martha Gledhill; mgledhill@geomar.de 
+* London International Royal Society meeting on Marine Microbes in a Changing Climate, 12-13 Sept 2022,(organized by A. Tagliabue, T. Mock, J.Robidart, P. Sanchez-Baracaldo 
 * BioGeoSCAPES had a major presence at the 2022 Ocean Sciences Meeting Virtual Meeting, February 24 - March 4, 2022, with 44 submissions distributed into 5 sessions and 80-100 participants attending each session. The session was titled: "Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry" under the topic Ocean Biology and Biogeochemistry. 
   * [BioGeoSCAPES Session 1](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/40): Global Scale Processes (Mon. Feb. 28, 9AM EST)
   * [BioGeoSCAPES Session 2](https://osm2022.secure-platform.com/a/solicitations/3/sessiongallery/schedule/items/641): Southern Ocean Dynamics (Mon. Feb. 28, 10AM EST)
