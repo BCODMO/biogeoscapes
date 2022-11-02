@@ -16,7 +16,7 @@ In an effort to explore and develop international community interest for a poten
 
 #### Upcoming Events
 * Stay tuned: Webinars and future workshops  being planned
-*   
+
 #### Recent Activities:
 * EU 2022 Euromarine (Dates June 2022; Zagreb, Croatia) A Pan-European workshop to further foster BioGeoSCAPES collaborations and to support their COST application.  Martha Gledhill (GEOMAR Helmholtz Centre for Ocean Research) and Sandi Orlic (Institut Ruđer Bošković, Zagreb, Croatia). For further details see the [website](https://euromarinenetwork.eu/activities/reconciling-impact-trace-metal-limitation-microbial-metabolism-and-productivity/) or contact Martha Gledhill; mgledhill@geomar.de 
 * London International Royal Society meeting on Marine Microbes in a Changing Climate, 12-13 Sept 2022,(organized by A. Tagliabue, T. Mock, J.Robidart, P. Sanchez-Baracaldo 
