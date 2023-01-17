@@ -33,11 +33,14 @@ Here is registration [link](https://whoi-edu.zoom.us/meeting/register/tJAocequrT
 *	6-8 Sept 2022, Challenger 150: The Challenger Society Conference 2022 in London included several BioGeoSCAPES presentations.
 *	A Pan-European workshop, EU 2022 Euromarine,  to further foster BioGeoSCAPES collaborations, occurred in June of 2022 in Zagreb, Croatia. Organized by Martha Gledhill (GEOMAR Helmholtz Centre for Ocean Research) and Sandi Orlic (Institut Ruđer Bošković, Zagreb, Croatia). For further details contact Martha Gledhill (mgledhill@geomar.de)
 *	BioGeoSCAPES had a major presence at the 2022 Ocean Sciences Meeting Virtual Meeting, February 24 - March 4, 2022, with 44 submissions distributed into 5 sessions and 80-100 participants attending each session. The session was titled: “Towards BioGeoSCAPES: Linking cellular metabolism with ocean biogeochemistry” under the topic Ocean Biology and Biogeochemistry.
-<b>Cruises</b> with a BioGeoSCAPES-like mission, aiming to elucidate the coupling between microbial ecology and functionality with nutrient cycles: 
+
+<b>Cruises with a BioGeoSCAPES-like mission, aiming to elucidate the coupling between microbial ecology and functionality with nutrient cycles: </b>
+
 <u>Completed cruises:</u>
 *	INDIA: CSIR-NIO, lndian Ocean, Mapping the Genomes, 90 days, March-May 2021; ~ 30 scientists, RV Sindhu Sadhana; (Sunil Kumar Singh)
 *	INTERNATIONAL: Tara Oceans mission microbiomes was completed. For nearly two years the laboratory-ship Tara travelled along the coasts of S. America, into the Weddell Sea and up the coast of west Africa. Overseen by the European AtlantECO program alongside the Foundation Tara Ocean, with scientific partners including the CNRS, CEA and EMBL, this mission involves 42 research structures across the world in studying the benefits of the ocean microbiome and its interactions with the climate and pollution.
 *	FRANCE: Swings cruise completed: collected samples for abundance of heterotrophic and autotrophic prokaryotes and pico- and nano-eukaryotes (flow cytometry), prokaryotic diversity, metatranscriptomics and metaproteomics
+
 <u>Planned cruises:</u>
 *	JAPAN: June 2023, part of GEOTRACES GP22, PI: Hajime Obata in the NW Pacific (Leg 1 and 2 completed, Leg 3, June 2023)
 *	TAIWAN: August 2023 (lead PI: Haojia Ren, National Taiwan University). Tung-Yuan and Chuan Ku: temporal variation on community structure of phytoplankton and interactions with microbes-phytoplankton  
