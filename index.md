@@ -15,7 +15,9 @@ In an effort to explore and develop international community interest for a poten
 <br>
 
 #### Upcoming Events
-* Stay tuned: Webinars and future workshops  being planned
+* <b>Organizing Intercalibration Efforts for BioGeoSCAPES: a Panel Discussion</b>. January 25 @ 11am-1pm EST. Overview: Producing data that can be effectively compared across space and time is a critical aspect to developing an international microbial biogeochemistry collaborative program. Intercalibration activities, involving validation of precision and accuracy and the development of intercomparison standards, are foundational to the production of interoperable data. With BioGeoSCAPES aiming to launch mid-decade further progress must be made to ensure high quality data collection. This virtual panel will hear perspectives from a variety of communities (nucleic acids, metabolomics, proteomics, rates) and encourage brainstorming through small group discussions. This panel discussion initiates the pre-work effort building towards an eventual in person BioGeoSCAPES workshop in the coming years. <b>Registration [link](https://whoi-edu.zoom.us/meeting/register/tJAocequrTotHtfPW_FUdqLnvTxKNPmlglHE)</b>
+*	The Netherlands National workshop is occurring at the end of February, organized by Rob Middag and Susanne Wilken.
+*	2nd Canada National Workshop: May 1-2, Halifax, organized by and Erin Bertrand and Maite Maldonado
 
 #### Recent Activities:
 * EU 2022 Euromarine (Dates June 2022; Zagreb, Croatia) A Pan-European workshop to further foster BioGeoSCAPES collaborations and to support their COST application.  Martha Gledhill (GEOMAR Helmholtz Centre for Ocean Research) and Sandi Orlic (Institut Ruđer Bošković, Zagreb, Croatia). For further details see the [website](https://euromarinenetwork.eu/activities/reconciling-impact-trace-metal-limitation-microbial-metabolism-and-productivity/) or contact Martha Gledhill; mgledhill@geomar.de 
