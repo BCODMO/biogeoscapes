@@ -48,11 +48,15 @@ Here is registration [link](https://whoi-edu.zoom.us/meeting/register/tJAocequrT
 *	SOUTH AFRICA: SAPRI, submitted to the South African Research Infrastructure program, Dept. Science and Innovation (Daniel Adams) 
 
 <b>Science workshops</b>
+
 We are planning to have the 1st International Science Plan Meeting workshop this Fall (2023) in Woods Hole Oceanographic Institution (Falmouth, Massachusetts, US). In preparation for this, we are asking all nations, that would like to be involved, to complete their National Planning Workshops. In these national workshops, we encourage you to discuss the following questions:
 
 1)	Thoughts on preliminary BioGeoSCAPES Mission statement this? How could this be improved? <b>“To improve our understanding of the functioning and regulation of ocean metabolism and its interaction with nutrient cycling within the context of a hierarchical seascape perspective”. </b>
+
 2)	How would your nation best contribute to BioGeoSCAPES efforts? – e.g. fieldwork, laboratory work, modelling, intercalibration efforts, project coordination, data management, bioinformatics
+
 3)	 What science questions are most important to your nation within the broad scope of BioGeoSCAPES on a 10-year timeframe? 
+
 4)	Are there any impediments that the international community could seek to mitigate via training or collaboration?
 
 After your workshop, we would like to request a 2-page summary report answering the questions above. If you have any questions, please contact Maite Maldonado (mmaldonado@eoas.ubc.ca)
